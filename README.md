@@ -40,8 +40,8 @@ Create a database URI with the [TUTORIAL](https://telegra.ph/Clonebot-UI-Help-05
 
 Create a `config.py` with the above variables (Refer sample_config.py)
 ```
-git clone https://github.com/m4mallu/inline-tube-mate
-cd inline-tube-mate
+git clone https://github.com/SQADIRKVM/YoutubeDownlodBot
+cd YoutubeDownlodBot
 virtualenv -p python3 venv
 . ./venv/bin/activate
 pip3 install -r requirements.txt
