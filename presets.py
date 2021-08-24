@@ -10,7 +10,7 @@ class Presets(object):
 
 𝐒𝐞𝐚𝐫𝐜𝐡 𝐢𝐧𝐥𝐢𝐧𝐞 𝐟𝐚𝐜𝐢𝐥𝐢𝐭𝐲, 𝐨𝐫 𝐩𝐚𝐬𝐭𝐞 𝐭𝐡𝐞 𝐘𝐨𝐮𝐓𝐮𝐛𝐞 𝐥𝐢𝐧𝐤 𝐭𝐨 𝐬𝐭𝐚𝐫𝐭 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝𝐢𝐧𝐠.
 
-𝐉𝐨𝐢𝐧 <a href='https://t.me/RMProjects'>𝐔𝐩𝐝𝐚𝐭𝐞𝐬</a> | 𝐑𝐞𝐩𝐨 <a href='https://github.com/m4mallu/inline-tube-mate'>𝐋𝐈𝐍𝐊</a>   
+𝐉𝐨𝐢𝐧 <a href='https://chat.whatsapp.com/LiGdzriffcs9ZTXt1pM4ZN'>𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩 𝐆𝐫𝐨𝐮𝐩</a> | 𝐒𝐨𝐮𝐫𝐜𝐞 𝐂𝐨𝐝𝐞 <a href='https://t.me/Uvva_IppoKittum_Nokkiyirunno'>𝐋𝐈𝐍𝐊</a>   
     """
     WELCOME_MSG = "𝐇𝐞𝐥𝐥𝐨... {}\n𝐈 𝐜𝐚𝐧 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐘𝐨𝐮𝐓𝐮𝐛𝐞 𝐯𝐢𝐝𝐞𝐨𝐬.\n𝐒𝐞𝐚𝐫𝐜𝐡 𝐈𝐧𝐥𝐢𝐧𝐞- 𝐬𝐞𝐥𝐞𝐜𝐭 𝐚𝐧𝐝 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝."
     OPTIONS_TXT = "𝐈 𝐜𝐚𝐧 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐘𝐨𝐮𝐓𝐮𝐛𝐞 𝐯𝐢𝐝𝐞𝐨𝐬.\n𝐒𝐞𝐚𝐫𝐜𝐡 𝐈𝐧𝐥𝐢𝐧𝐞- 𝐬𝐞𝐥𝐞𝐜𝐭 𝐚𝐧𝐝 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝."
@@ -18,14 +18,14 @@ class Presets(object):
     NO_RESULTS = "❌ 𝐍𝐨 𝐑𝐞𝐬𝐮𝐥𝐭𝐬:"
     DESCRIPTION = "Duration: {} || {}"
     NOT_AUTH_TXT = "❌ ❌ 𝐘𝐨𝐮 𝐚𝐫𝐞 𝐧𝐨𝐭 𝐚𝐮𝐭𝐡𝐨𝐫𝐢𝐳𝐞𝐝 ❌ ❌"
-    DEFAULT_TITLE = "𝐈𝐧𝐥𝐢𝐧𝐞 𝐓𝐮𝐛𝐞 𝐌𝐚𝐭𝐞 𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲"
+    DEFAULT_TITLE = "𝐄𝐝𝐮𝐱𝐜𝐨𝐦 𝐘𝐨𝐮𝐓𝐮𝐛𝐞 𝐃𝐨𝐰𝐧𝐥𝐨𝐝 𝐁𝐨𝐭"
     DEFAULT_THUMB_URL = "https://image.flaticon.com/icons/png/512/25/25231.png"
-    DEFAULT_LINK = "https://github.com/m4mallu"
-    DEFAULT_DESCRIPTION = "𝐋𝐢𝐧𝐤: 𝐌𝟒𝐌𝐚𝐥𝐥𝐮 | 𝐆𝐢𝐭𝐇𝐮𝐛"
+    DEFAULT_LINK = "https://github.com/SQADIRKVM"
+    DEFAULT_DESCRIPTION = "𝐋𝐢𝐧𝐤: 𝐒𝐐𝐀𝐃𝐈𝐑 | 𝐆𝐢𝐭𝐇𝐮𝐛"
     DEV_TITLE = "𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧"
-    DEV_THUMB_URL = "https://freepikpsd.com/media/2019/10/software-developer-icon-png-2-Transparent-Images.png"
-    DEV_LINK = "https://t.me/space4renjith"
-    DEV_DESCRIPTION = "𝐍𝐚𝐦𝐞: 𝐑𝐞𝐧𝐣𝐢𝐭𝐡 𝐌𝐚𝐧𝐠𝐚𝐥 | 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦"
+    DEV_THUMB_URL = "https://telegra.ph/file/ca2c7a635b56df89d2eb1.png"
+    DEV_LINK = "https://github.com/SQADIRKVM"
+    DEV_DESCRIPTION = "𝐍𝐚𝐦𝐞: 𝐒𝐐𝐀𝐃𝐈𝐑 | 𝐆𝐢𝐭𝐇𝐮𝐛"
     SHARE_BUTTON_TEXT = "𝙃𝙞..  👋\n𝐂𝐡𝐞𝐜𝐤𝐨𝐮𝐭 : @{username}\n𝐅𝐨𝐫 𝐬𝐞𝐚𝐫𝐜𝐡 𝐚𝐧𝐝 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐘𝐨𝐮𝐓𝐮𝐛𝐞 𝐯𝐢𝐝𝐞𝐨𝐬"
     SAVED_THUMB = "<b>✅ Thumbnail Saved Successfully</b>\n<code>This file will be used in next YouTube " \
                   "downloads until you clear it !</code> "
@@ -61,7 +61,7 @@ class Presets(object):
     """
     SET_CUSTOM_USERNAME_PASSWORD = """If you want to download premium videos, provide in the following format:
 URL | newfilename | username | password"""
-    CUSTOM_CAPTION_UL_FILE = "\xad \xad\n<code>{}</code>\n\n<b>Credits- </b><b><a href='https://t.me/RMProjects'>@RMProjects</a></b>"
+    CUSTOM_CAPTION_UL_FILE = "\xad \xad\n<code>{}</code>\n\n<b>Credits- </b><b><a href='https://t.me/eduxcom_tel'>@Eduxcom</a></b>"
     RCHD_TG_API_LIMIT = "Detected File Size: {}\nSorry. But, I cannot upload files " \
                         "greater than 1.95GB due to Telegram API limitations."
     AD_STRING_TO_REPLACE = "please report this issue on https://yt-dl.org/bug . Make sure you are using the " \
