@@ -1,4 +1,4 @@
-# Telegram Youtube Downloder Bot
+# Telegram Youtube Download Bot
 
 **An Telegram bot that can download YouTube videos with permanent thumbnail support**
 
@@ -15,7 +15,7 @@
 <br>
 
 <p align="left">
-  <a href="https://heroku.com/deploy?template=https://github.com/SQADIRKVM/YoutubeDownlodBot">
+  <a href="https://heroku.com/deploy?template=https://github.com/SQADIRKVM/YoutubeDownloadBot">
      <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
 </p>
@@ -40,8 +40,8 @@ Create a database URI with the [TUTORIAL](https://telegra.ph/Clonebot-UI-Help-05
 
 Create a `config.py` with the above variables (Refer sample_config.py)
 ```
-git clone https://github.com/SQADIRKVM/YoutubeDownlodBot
-cd YoutubeDownlodBot
+git clone https://github.com/SQADIRKVM/YoutubeDownloadBot
+cd YoutubeDownloadBot
 virtualenv -p python3 venv
 . ./venv/bin/activate
 pip3 install -r requirements.txt
