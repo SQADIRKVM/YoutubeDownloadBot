@@ -1,6 +1,6 @@
-# Inline-Tube-Mate (YouTube Downloader)
+# Telegram Youtube Downloder Bot
 
-**An Inline Telegram bot that can download YouTube videos with permanent thumbnail support**
+**An Telegram bot that can download YouTube videos with permanent thumbnail support**
 
 <br>
 
@@ -15,7 +15,7 @@
 <br>
 
 <p align="left">
-  <a href="https://heroku.com/deploy?template=https://github.com/m4mallu/inline-tube-mate">
+  <a href="https://heroku.com/deploy?template=https://github.com/SQADIRKVM/YoutubeDownlodBot">
      <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
 </p>
@@ -49,7 +49,6 @@ python3 bot.py
 ```
 <br>
 
-### [Join Telegram Bot Update Channel](https://t.me/RMProjects)
 
 ## Credits
 
